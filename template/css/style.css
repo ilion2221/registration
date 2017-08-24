@@ -1,0 +1,30 @@
+input {
+    display: block;
+    width: 100%;
+    margin: 10px 10px 10px 0;
+}
+.logo img {
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    margin-left: 10px;
+}
+.logo {
+    padding: 0;
+    margin: 0;
+}
+.menu-style {
+    margin-bottom: 0;
+}
+#navigat {
+    border: none;
+}
+.luck {
+    color: #3276b1;
+}
+.true-reg a {
+    width: 70%;
+}
+.cbalink {
+    display: none;
+}
